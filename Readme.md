@@ -8,7 +8,7 @@ Use my blog for your own work. It is based on [hugo - static site generator](htt
 
 ## Getting Started
 
-Run this hugo blog site on your local machine.
+Run this hugo blog on your local machine.
 
 ### Install hugo:
 
@@ -55,6 +55,8 @@ When your work are done, compile the html files for deployment. Goto your projec
 ```
 $ hugo
 ```
+
+Now you find in the folder */public* the html files from the website.
 
 ## Built With
 

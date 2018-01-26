@@ -1,4 +1,4 @@
-baseURL = "http://sascha.fitzner.io/"
+baseURL = "/"
 languageCode = "de-DE"
 defaultContentLanguage = "de"
 title = "Blog von Sascha Fitzner"

@@ -1,7 +1,7 @@
 ---
 title: "Über mich"
-date: 2017-08-20T21:38:52+08:00
-lastmod: 2017-08-28T21:41:52+08:00
+date: 2018-01-26T13:38:52+01:00
+lastmod: 2018-01-26T13:41:52+01:00
 menu: "main"
 weight: 50
 
@@ -10,7 +10,7 @@ comment: false
 mathjax: false
 ---
 
-![Profilbild Sascha Fitzner](/static/img/sascha-fitzner-foto.256x256.jpg)
+![Profilbild Sascha Fitzner](/img/sascha-fitzner-foto.256x256.jpg)
 
 # Über mich
 
@@ -24,7 +24,7 @@ Hier auf meinem Blog schreibe ich über Social Media, Agile Softwareentwicklung,
 
 Wenn Du diese Themen ebenso spannend findest wie ich, kannst Du mich über folgende Kanäle erreichen:
 
-* [Twitter](https://twitter.com/saschafitzner) - Hier twittere ich was mir so durch den Kopf geht, retweete oft interessante Beiträge und vernetzte mich mit gleichgesinnten.
+* [Twitter](https://twitter.com/saschafitzner) - Hier twittere ich was mir so durch den Kopf geht, retweete oft interessante Beiträge und vernetzte mich mit Gleichgesinnten.
 * [Xing](https://www.xing.com/profile/Sascha_Fitzner) - Hier kannst Du meine Vita einsehen
 * [GitHub](https://github.com/SaschaFitzner) - Ich liebe Open Source. Ich will so viel wie möglich meiner Arbeit unter Open Source verfügbar machen oder bei anderen Projekten helfen. Fork me on GitHub :)
 

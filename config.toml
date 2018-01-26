@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://sascha.fitzner.io/"
 languageCode = "de-DE"
 defaultContentLanguage = "de"
 title = "Blog von Sascha Fitzner"
@@ -8,7 +8,7 @@ theme = "even"
 
 hasCJKLanguage = false     # has chinese/japanese/korean ?
 paginate = 3
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "sascha-fitzner-io"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
 
@@ -50,7 +50,7 @@ copyright = ""            # default: author.name ↓
   archive-paginate = 3
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "01.02.2006"
+  dateFormatToUse = "2006-02-01"
 
   # show word count and read time ?
   moreMeta = false

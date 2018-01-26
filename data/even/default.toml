@@ -1,6 +1,6 @@
-archive = "Archive"
+archive = "Archiv"
 tags = "Tags"
-categories = "Categories"
+categories = "Kategorien"
 
 [footer]
   powered = "Powered by %s"

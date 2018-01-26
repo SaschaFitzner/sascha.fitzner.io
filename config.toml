@@ -20,26 +20,21 @@ copyright = ""            # default: author.name ↓
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "Kategorien"
   weight = 20
-  identifier = "archives"
-  url = "/post/"
+  identifier = "categories"
+  url = "/categories/"
 [[menu.main]]
   name = "Tags"
   weight = 30
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
+  name = "Archiv"
   weight = 40
-  identifier = "categories"
-  url = "/categories/"
+  identifier = "archives"
+  url = "/post/"
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
@@ -98,13 +93,14 @@ copyright = ""            # default: author.name ↓
     alipay = "/path/to/your/alipay-qr-code.png"
 
   [params.social]
+    a-twitter = "https://twitter.com/saschafitzner"
+    b-github = "https://github.com/saschafitzner"
+    #c-linkedin = "https://de.linkedin.com/in/sascha-fitzner-6542b8b9"
     #a-email = "mailto:your@email.com"
     #b-stack-overflow = "http://localhost:1313"
-    c-twitter = "https://twitter.com/saschafitzner"
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    g-github = "https://github.com/saschafitzner"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"

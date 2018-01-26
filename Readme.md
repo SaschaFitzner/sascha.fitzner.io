@@ -50,7 +50,7 @@ Start now your browser http://localhost:1313/
 
 ## Deployment
 
-When your work are done, compile the html files for deployment. Go to your project folder and run the folowing command:
+When your work are done, compile the html files for deployment. Go to your project folder and run the following command:
 
 ```
 $ hugo

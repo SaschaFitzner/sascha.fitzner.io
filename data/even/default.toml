@@ -7,39 +7,39 @@ categories = "Kategorien"
   theme = "Theme"
 
 [posts]
-  prev = "Prev"
-  next = "Next"
-  prev_post = "Prev"
-  next_post = "Next"
-  toc = "Contents"
-  readmore = "Read more.."
+  prev = "Zurück"
+  next = "Weiter"
+  prev_post = "Zurück"
+  next_post = "Weiter"
+  toc = "Inhalt"
+  readmore = "Weiterlesen.."
   reward = "Reward"
   rewardAlipay = "alipay"
   rewardWechat = "wechat"
   seeMarkDown = "The Markdown version »"
 
   [posts.header]
-    wordCount = "%d word"
-    readingTime = "%d min read"
+    wordCount = "%d Worte"
+    readingTime = "%d Minuten zu lesen"
 
 [copyright]
-  author = "Author"
+  author = "Autor"
   lastMod = "LastMod"
   markdown = "Markdown"
-  license = "License"
+  license = "Lizenz"
 
 [counter]
   [counter.archives]
-    zero = "No Posts"
-    other = "%d Posts In Total"
+    zero = "Keine Posts"
+    other = "%d Post gesamt"
 
   [counter.tagcloud]
-    zero = "No tags"
-    other = "%d Tags In Total"
+    zero = "Keine Tags"
+    other = "%d Tags gesamt"
 
   [counter.categories]
-    zero =  "No Categories"
-    other = "%d Categories In Total"
+    zero =  "Keine Kategorien"
+    other = "%d Kategorien gesamt"
 
 [traffic]
   siteUV = "site uv: %s"

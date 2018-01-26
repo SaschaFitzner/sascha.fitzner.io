@@ -50,7 +50,7 @@ copyright = ""            # default: author.name ↓
   archive-paginate = 3
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+  dateFormatToUse = "01.02.2006"
 
   # show word count and read time ?
   moreMeta = false

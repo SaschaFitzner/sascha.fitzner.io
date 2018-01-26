@@ -13,7 +13,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
 
 [author]                  # essential
-  name = "saschafitzner"
+  name = "Sascha Fitzner"
 
 [sitemap]                 # essential
   changefreq = "weekly"
@@ -104,7 +104,7 @@ copyright = ""            # default: author.name ↓
     #d-facebook = "http://localhost:1313"
     #e-linkedin = "http://localhost:1313"
     #f-google = "http://localhost:1313"
-    #g-github = "http://localhost:1313"
+    g-github = "https://github.com/saschafitzner"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"

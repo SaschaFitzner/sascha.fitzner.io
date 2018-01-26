@@ -65,4 +65,4 @@ Now you find in the folder */public* the html files from the website.
 
 ## License
 
-My blog content is subject to the creative commons licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Note the licence from Hugo and the hugo theme even. 
+My blog content is subject to the creative commons licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Note the licences from Hugo and the hugo theme even. 

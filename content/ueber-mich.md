@@ -18,7 +18,7 @@ Mein Name ist Sascha Fitzner und ich bin ein Marketing Geek, Senior Webdeveloper
 
 Ich bin stolzer Familienvater von zwei Jungs, bald seit 20 Jahren glücklich verheiratet und lebe wieder meinen Traum der Selbständigkeit nach einer über vierjährigen Pause als Festangestellter.
 
-Aktuell bin ich auf Instagram fokussiert und versuche über das Zusammenspiel von Webentwicklung und Marketing kreative Wege für Unternehmenswachstum zu finden. Dies fasst man neuerdings neudeutsch unter [Growth-Hacking](../post/was-zum-teufel-ist-growth-hacking/) zusammen.
+> Aktuell bin ich auf Instagram fokussiert und versuche über das Zusammenspiel von Webentwicklung und Marketing kreative Wege für Unternehmenswachstum zu finden. Dies fasst man neuerdings neudeutsch unter [Growth-Hacking](../post/was-zum-teufel-ist-growth-hacking/) zusammen.
 
 Hier auf meinem Blog schreibe ich über Social Media, Agile Softwareentwicklung, New Work und Webentwicklung.  
 

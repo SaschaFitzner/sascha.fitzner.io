@@ -40,7 +40,7 @@ $ git clone https://github.com/SaschaFitzner/sascha.fitzner.io.git
 
 ## Run on local server
 
-Goto your project folder and run.
+Go to your project folder and run.
 
 ```
 $ hugo server
@@ -50,7 +50,7 @@ Start now your browser http://localhost:1313/
 
 ## Deployment
 
-When your work are done, compile the html files for deployment. Goto your project folder and run the folowing command:
+When your work are done, compile the html files for deployment. Go to your project folder and run the folowing command:
 
 ```
 $ hugo

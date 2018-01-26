@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "de-DE"
 defaultContentLanguage = "de"
-title = "Blog von Sascha Fitzner"
+title = "Sascha Fitzner - Marketing Geek, Senior Webdeveloper und Growth-Hacker"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
@@ -44,7 +44,7 @@ copyright = ""            # default: author.name ↓
   # site info (optional)
   logoTitle = "Sascha Fitzner"        # default: the title value
   keywords = ["Hugo", "theme","even"]
-  description = "Hugo theme even example site."
+  description = "Ich bin ein Marketing Geek, Senior Webdeveloper und Growth-Hacker aus Niestetal/Deutschland - Kreis Kassel"
 
   # paginate of archives, tags and categories
   archive-paginate = 3

@@ -10,13 +10,15 @@ comment: false
 mathjax: false
 ---
 
+![Profilbild Sascha Fitzner](/static/img/sascha-fitzner-foto.256x256.jpg)
+
 # Über mich
 
 Mein Name ist Sascha Fitzner und ich bin ein Marketing Geek, Senior Webdeveloper + Growth-Hacker aus Niestetal/Deutschland - Kreis [Kassel](https://goo.gl/Lkow2v).
 
-Ich bin stolzer Familienvater von zwei Jungs, bald seit 20 Jahre glücklich verheiratet und lebe wieder meinen Traum der Selbständigkeit nach einer über vierjährigen Pause als Festangestellter.
+Ich bin stolzer Familienvater von zwei Jungs, bald seit 20 Jahren glücklich verheiratet und lebe wieder meinen Traum der Selbständigkeit nach einer über vierjährigen Pause als Festangestellter.
 
-Aktuell bin ich auf Instagram fokussiert und versuche über das Zusammenspiel von Webentwicklung und Marketing kreative Wege für Unternehmenswachstum zu finden. Dies fasst man neuerdings neudeutsch unter [Growth-Hacking](https://de.wikipedia.org/wiki/Growth_Hacking) zusammen.
+Aktuell bin ich auf Instagram fokussiert und versuche über das Zusammenspiel von Webentwicklung und Marketing kreative Wege für Unternehmenswachstum zu finden. Dies fasst man neuerdings neudeutsch unter [Growth-Hacking](../post/was-zum-teufel-ist-growth-hacking/) zusammen.
 
 Hier auf meinem Blog schreibe ich über Social Media, Agile Softwareentwicklung, New Work und Webentwicklung.  
 
@@ -24,7 +26,7 @@ Wenn Du diese Themen ebenso spannend findest wie ich, kannst Du mich über folge
 
 * [Twitter](https://twitter.com/saschafitzner) - Hier twittere ich was mir so durch den Kopf geht, retweete oft interessante Beiträge und vernetzte mich mit gleichgesinnten.
 * [Xing](https://www.xing.com/profile/Sascha_Fitzner) - Hier kannst Du meine Vita einsehen
-* [GitHub](https://github.com/SaschaFitzner) - Ich liebe Open Source. Ich werde in Zukunft so viel wie möglich meiner Arbeit unter Open Source verfügbar machen oder bei anderen Projekten helfen. Fork me on GitHub :)
+* [GitHub](https://github.com/SaschaFitzner) - Ich liebe Open Source. Ich will so viel wie möglich meiner Arbeit unter Open Source verfügbar machen oder bei anderen Projekten helfen. Fork me on GitHub :)
 
 
 
